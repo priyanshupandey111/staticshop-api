@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "email": "23f1001717@ds.study.iitm.ac.in",
+    "version": "26a9881e"
+  },
+  "products": [PASTE_THE_23_PRODUCTS_EXACTLY_AS_YOU_SENT],
+  "aggregations": {
+    "home": {
+      "count": 4,
+      "inventoryValue": 157030.28
+    }
+  }
+}
